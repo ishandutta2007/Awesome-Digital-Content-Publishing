@@ -1,6 +1,6 @@
 # Awesome-Digital-Content-Publishing
 
-# Top Digital Content Publishing Ecosystem
+## Top Digital Content Publishing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Headless CMS, Managed WordPress & Creator Publishing Platforms*  
