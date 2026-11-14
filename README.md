@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Content-Publishing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Content-Publishing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Content-Publishing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Content-Publishing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Content-Publishing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Content-Publishing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Content-Publishing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Content-Publishing?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Content-Publishing"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintenance" /></a>
@@ -75,7 +75,7 @@ The competitive landscape demonstrates **moderate fragmentation**: established m
 
 *Sorted in descending order by GitHub stargazer count.*
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[Strapi](https://github.com/strapi/strapi)** | [![Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) | **The leading open-source headless CMS.** Extensible Node.js/TypeScript architecture with customizable admin panel, REST and GraphQL APIs, and role-based permissions. Free under MIT License with unlimited content types and entries [citation:8]. |
 | **[Ghost](https://github.com/TryGhost/Ghost)** | [![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) | **The most complete open-source publishing platform.** Node.js engine for modern digital publishing, paid newsletters, and membership tiers. Self-hosted Ghost provides identical features to Ghost(Pro) without arbitrary content limits [citation:1]. |
@@ -97,7 +97,7 @@ Contributions are warmly encouraged! Here is how to submit improvements:
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-publishing-tool`).
 3. 📝 **Add or update entries in `README.md`**:
    - For SaaS platforms: include product name, official link, 1–2 sentence description, company scale, verified starting price, and exact free tier/trial limits.
-   - For open-source projects: include project name, repository link, official stars badge (`style=social&color=white`), and core architectural highlights.
+   - For open-source projects: include project name, repository link, official Stars_Badge (`style=social&color=white`), and core architectural highlights.
 4. 🚀 **Submit a Pull Request (PR)** with a summary of the additions.
 
 ---
